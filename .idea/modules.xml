@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ass22.iml" filepath="$PROJECT_DIR$/Ass22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_classes/common_classes.iml" filepath="$PROJECT_DIR$/common_classes/common_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remoteServer/remoteServer.iml" filepath="$PROJECT_DIR$/remoteServer/remoteServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webApp/webApp.iml" filepath="$PROJECT_DIR$/webApp/webApp.iml" />
+    </modules>
+  </component>
+</project>
